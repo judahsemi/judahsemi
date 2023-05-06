@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Banjoko Judah
-- 👀 I’m interested in programming, AI, AR & VR, general tech stuffs, movies, animes, etc... I'm a man of many hobbies 🙂
+- 👀 I’m interested in programming, AI, AR & VR, general tech stuffs, movies, animes, cooking, etc... I'm a man of many hobbies 🙂
 - 🌱 I’m currently learning Node.js & Electron.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
